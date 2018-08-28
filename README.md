@@ -1,1 +1,2 @@
-# blog-post-schema-challenge
+Blog app schema challenge solution
+==================================
